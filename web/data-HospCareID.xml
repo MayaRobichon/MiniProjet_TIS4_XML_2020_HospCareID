@@ -1,0 +1,507 @@
+<?xml version="1.0" standalone="yes"?>
+<depistages>
+  <adresses>
+    <foyer>
+      <id>38012_0520_00163</id>
+      <voie>163, Rue des Nouveaux</voie>
+      <commune>38490 Aoste</commune>
+    </foyer>
+    <foyer>
+      <id>38541_0200_00249</id>
+      <voie>249, Route du Dauphiné</voie>
+      <commune>38630 Les Avenières Veyrins-Thuellin</commune>
+    </foyer>
+    <foyer>
+      <id>38045_a003_00035</id>
+      <voie>35, Ens Im du Dom des Plantees</voie>
+      <commune>38330 Biviers</commune>
+    </foyer>
+    <foyer>
+      <id>38067_0230_00151</id>
+      <voie>151, Chemin du Chevalet</voie>
+      <commune>38460 Chamagnieu</commune>
+    </foyer>
+    <foyer>
+      <id>38071_0165_00031</id>
+      <voie>31, Avenue Louis Colmard</voie>
+      <commune>38560 Champ-sur-Drac</commune>
+    </foyer>
+    <foyer>
+      <id>38071_0025_00005</id>
+      <voie>5, Chemin du Boutey</voie>
+      <commune>38560 Champ-sur-Drac</commune>
+    </foyer>
+    <foyer>
+      <id>38085_0080_00004</id>
+      <voie>4, Rue Guynemer</voie>
+      <commune>38230 Charvieu-Chavagneux</commune>
+    </foyer>
+    <foyer>
+      <id>38086_0356_01044</id>
+      <voie>1044, Chemin des Routes</voie>
+      <commune>38470 Chasselay</commune>
+    </foyer>
+    <foyer>
+      <id>38087_0467_00203</id>
+      <voie>203, Chemin des 4 Vents</voie>
+      <commune>38670 Chasse-sur-Rhône</commune>
+    </foyer>
+    <foyer>
+      <id>38095_0119_00236</id>
+      <voie>236, Allée des Peupliers</voie>
+      <commune>38160 Chatte</commune>
+    </foyer>
+    <foyer>
+      <id>38111_0850_00010</id>
+      <voie>10, Allee de la Duatiere</voie>
+      <commune>38640 Claix</commune>
+    </foyer>
+    <foyer>
+      <id>38111_1000_00047</id>
+      <voie>47, Allee des Giteaux</voie>
+      <commune>38640 Claix</commune>
+    </foyer>
+    <foyer>
+      <id>38124_0291_02337</id>
+      <voie>2337, Route de Bugnon</voie>
+      <commune>38630 Corbelin</commune>
+    </foyer>
+    <foyer>
+      <id>38130_0685_00085</id>
+      <voie>85, Chemin des Moilles</voie>
+      <commune>38260 La Côte-Saint-André</commune>
+    </foyer>
+    <foyer>
+      <id>38132_0005_01197</id>
+      <voie>1197, Route des Achards</voie>
+      <commune>38970 Les Côtes-de-Corps</commune>
+    </foyer>
+    <foyer>
+      <id>38133_0180_00100</id>
+      <voie>100, Allee des Alpes</voie>
+      <commune>38500 Coublevie</commune>
+    </foyer>
+    <foyer>
+      <id>38140_0140_00373</id>
+      <voie>373, Rue du Brocey</voie>
+      <commune>38920 Crolles</commune>
+    </foyer>
+    <foyer>
+      <id>38170_0160_00023</id>
+      <voie>23, Grande Rue</voie>
+      <commune>38120 Fontanil-Cornillon</commune>
+    </foyer>
+    <foyer>
+      <id>38174_0072_00060</id>
+      <voie>60, Chemin du Grand Tras</voie>
+      <commune>38260 La Frette</commune>
+    </foyer>
+    <foyer>
+      <id>38182_0400_00635</id>
+      <voie>635, Rue Pierre Bonnard</voie>
+      <commune>38690 Le Grand-Lemps</commune>
+    </foyer>
+    <foyer>
+      <id>38214_0017_00167</id>
+      <voie>167, Rue de la Fontaine</voie>
+      <commune>38660 Lumbin</commune>
+    </foyer>
+    <foyer>
+      <id>38229_0800_00002</id>
+      <voie>2, Rue des Vignes</voie>
+      <commune>38240 Meylan</commune>
+    </foyer>
+    <foyer>
+      <id>38229_0313_00004</id>
+      <voie>4, Place des Courtils</voie>
+      <commune>38240 Meylan</commune>
+    </foyer>
+    <foyer>
+      <id>38242_0002_00198_b</id>
+      <voie>198, Grand Rue</voie>
+      <commune>38650 Monestier-de-Clermont</commune>
+    </foyer>
+    <foyer>
+      <id>38294_0060_00078</id>
+      <voie>78, Chemin des Bruyères</voie>
+      <commune>38460 Panossas</commune>
+    </foyer>
+    <foyer>
+      <id>38297_0024_00054</id>
+      <voie>54, Traverse du Lot Bruyeres</voie>
+      <commune>38510 Arandon-Passins</commune>
+    </foyer>
+    <foyer>
+      <id>38307_yjxuf9_00121</id>
+      <voie>121, La Brosse</voie>
+      <commune>38270 Pisieu</commune>
+    </foyer>
+    <foyer>
+      <id>38339_a020_00004</id>
+      <voie>4, Lotissement le Clos du Reve</voie>
+      <commune>38090 Roche</commune>
+    </foyer>
+    <foyer>
+      <id>38344_0180_00024</id>
+      <voie>24, Rue Beyle Stendhal</voie>
+      <commune>38150 Roussillon</commune>
+    </foyer>
+    <foyer>
+      <id>38349_0240_00010</id>
+      <voie>10, Rue Robinson</voie>
+      <commune>38550 Sablons</commune>
+    </foyer>
+    <foyer>
+      <id>38352_0052_00019</id>
+      <voie>19, Rue des Ecoles</voie>
+      <commune>38080 Saint-Alban-de-Roche</commune>
+    </foyer>
+    <foyer>
+      <id>38384_0281_00002</id>
+      <voie>2, Rue des Narcisses</voie>
+      <commune>38590 Saint-Étienne-de-Saint-Geoirs</commune>
+    </foyer>
+    <foyer>
+      <id>38386_0050_00021</id>
+      <voie>21, Impasse du Boyet</voie>
+      <commune>38620 Saint-Geoire-en-Valdaine</commune>
+    </foyer>
+    <foyer>
+      <id>38395_85gkl0_00003</id>
+      <voie>3, Les Fontenettes</voie>
+      <commune>38660 Plateau-des-Petites-Roches</commune>
+    </foyer>
+    <foyer>
+      <id>38399_0024_00160</id>
+      <voie>160, Montee Bayetiere</voie>
+      <commune>38440 Saint-Jean-de-Bournay</commune>
+    </foyer>
+    <foyer>
+      <id>38421_0930_00042_bis</id>
+      <voie>42, Avenue Romain Rolland</voie>
+      <commune>38400 Saint-Martin-d'Hères</commune>
+    </foyer>
+    <foyer>
+      <id>38426_ydgcc0_00005</id>
+      <voie>5, La Dobo</voie>
+      <commune>38530 Saint-Maximin</commune>
+    </foyer>
+    <foyer>
+      <id>38433_0120_00123</id>
+      <voie>123, Impasse de Belledonne</voie>
+      <commune>38250 Saint-Nizier-du-Moucherotte</commune>
+    </foyer>
+    <foyer>
+      <id>38439_0214_00010</id>
+      <voie>10, Impasse de la Rethaudière</voie>
+      <commune>38830 Crêts en Belledonne</commune>
+    </foyer>
+    <foyer>
+      <id>38453_0460_00093</id>
+      <voie>93, Route de la Plaine</voie>
+      <commune>38160 Saint-Romans</commune>
+    </foyer>
+    <foyer>
+      <id>38455_0175_02547</id>
+      <voie>2547, Route du Bugey</voie>
+      <commune>38300 Saint-Savin</commune>
+    </foyer>
+    <foyer>
+      <id>38480_0430_00015</id>
+      <voie>15, Rue du Panoramique</voie>
+      <commune>38780 Septème</commune>
+    </foyer>
+    <foyer>
+      <id>38512_0235_00215</id>
+      <voie>215, Route du Cre</voie>
+      <commune>38300 Tramolé</commune>
+    </foyer>
+    <foyer>
+      <id>38515_hlllz6_00003</id>
+      <voie>3, Le Planeau</voie>
+      <commune>38460 Trept</commune>
+    </foyer>
+    <foyer>
+      <id>38524_0238_00013</id>
+      <voie>13, Impasse du Tilleul</voie>
+      <commune>38760 Varces-Allières-et-Risset</commune>
+    </foyer>
+    <foyer>
+      <id>38533_0068_00154</id>
+      <voie>154, Chemin de Pré Perroud</voie>
+      <commune>38610 Venon</commune>
+    </foyer>
+    <foyer>
+      <id>38547_0190_00002</id>
+      <voie>2, Place de l'Eglise</voie>
+      <commune>38190 Villard-Bonnot</commune>
+    </foyer>
+    <foyer>
+      <id>38547_0082_00007</id>
+      <voie>7, Impasse Belle Étoile</voie>
+      <commune>38190 Villard-Bonnot</commune>
+    </foyer>
+    <foyer>
+      <id>38547_0590_00217</id>
+      <voie>217, Rue Charles Rivoire</voie>
+      <commune>38190 Villard-Bonnot</commune>
+    </foyer>
+    <foyer>
+      <id>38563_0460_00030</id>
+      <voie>30, Avenue Edouard Herriot</voie>
+      <commune>38500 Voiron</commune>
+    </foyer>
+  </adresses>
+  <geolocalisations>
+    <localisation>
+      <id>38352_0052_00019</id>
+      <longitude>5.224895</longitude>
+      <latitude>45.595736</latitude>
+    </localisation>
+    <localisation>
+      <id>38541_0200_00249</id>
+      <longitude>5.513637</longitude>
+      <latitude>45.638059</latitude>
+    </localisation>
+    <localisation>
+      <id>38132_0005_01197</id>
+      <longitude>5.934293</longitude>
+      <latitude>44.837613</latitude>
+    </localisation>
+    <localisation>
+      <id>38421_0930_00042_bis</id>
+      <longitude>5.766127</longitude>
+      <latitude>45.164652</latitude>
+    </localisation>
+    <localisation>
+      <id>38170_0160_00023</id>
+      <longitude>5.663536</longitude>
+      <latitude>45.255809</latitude>
+    </localisation>
+    <localisation>
+      <id>38085_0080_00004</id>
+      <longitude>5.165833</longitude>
+      <latitude>45.743749</latitude>
+    </localisation>
+    <localisation>
+      <id>38071_0165_00031</id>
+      <longitude>5.729545</longitude>
+      <latitude>45.083159</latitude>
+    </localisation>
+    <localisation>
+      <id>38111_0850_00010</id>
+      <longitude>5.667594</longitude>
+      <latitude>45.121386</latitude>
+    </localisation>
+    <localisation>
+      <id>38339_a020_00004</id>
+      <longitude>5.167012</longitude>
+      <latitude>45.6048</latitude>
+    </localisation>
+    <localisation>
+      <id>38297_0024_00054</id>
+      <longitude>5.428154</longitude>
+      <latitude>45.683394</latitude>
+    </localisation>
+    <localisation>
+      <id>38229_0800_00002</id>
+      <longitude>5.779492</longitude>
+      <latitude>45.216831</latitude>
+    </localisation>
+    <localisation>
+      <id>38124_0291_02337</id>
+      <longitude>5.573642</longitude>
+      <latitude>45.594891</latitude>
+    </localisation>
+    <localisation>
+      <id>38349_0240_00010</id>
+      <longitude>4.768335</longitude>
+      <latitude>45.328399</latitude>
+    </localisation>
+    <localisation>
+      <id>38294_0060_00078</id>
+      <longitude>5.203277</longitude>
+      <latitude>45.679414</latitude>
+    </localisation>
+    <localisation>
+      <id>38384_0281_00002</id>
+      <longitude>5.338066</longitude>
+      <latitude>45.341884</latitude>
+    </localisation>
+    <localisation>
+      <id>38480_0430_00015</id>
+      <longitude>4.998253</longitude>
+      <latitude>45.566081</latitude>
+    </localisation>
+    <localisation>
+      <id>38533_0068_00154</id>
+      <longitude>5.8085</longitude>
+      <latitude>45.171524</latitude>
+    </localisation>
+    <localisation>
+      <id>38214_0017_00167</id>
+      <longitude>5.911069</longitude>
+      <latitude>45.305933</latitude>
+    </localisation>
+    <localisation>
+      <id>38307_yjxuf9_00121</id>
+      <longitude>5.06511</longitude>
+      <latitude>45.389206</latitude>
+    </localisation>
+    <localisation>
+      <id>38086_0356_01044</id>
+      <longitude>5.351248</longitude>
+      <latitude>45.261805</latitude>
+    </localisation>
+    <localisation>
+      <id>38395_85gkl0_00003</id>
+      <longitude>5.913704</longitude>
+      <latitude>45.353334</latitude>
+    </localisation>
+    <localisation>
+      <id>38229_0313_00004</id>
+      <longitude>5.799863</longitude>
+      <latitude>45.216249</latitude>
+    </localisation>
+    <localisation>
+      <id>38524_0238_00013</id>
+      <longitude>5.670981</longitude>
+      <latitude>45.105598</latitude>
+    </localisation>
+    <localisation>
+      <id>38095_0119_00236</id>
+      <longitude>5.279741</longitude>
+      <latitude>45.139862</latitude>
+    </localisation>
+    <localisation>
+      <id>38067_0230_00151</id>
+      <longitude>5.169971</longitude>
+      <latitude>45.679518</latitude>
+    </localisation>
+    <localisation>
+      <id>38045_a003_00035</id>
+      <longitude>5.805655</longitude>
+      <latitude>45.234179</latitude>
+    </localisation>
+    <localisation>
+      <id>38512_0235_00215</id>
+      <longitude>5.264683</longitude>
+      <latitude>45.518172</latitude>
+    </localisation>
+    <localisation>
+      <id>38071_0025_00005</id>
+      <longitude>5.726347</longitude>
+      <latitude>45.076042</latitude>
+    </localisation>
+    <localisation>
+      <id>38433_0120_00123</id>
+      <longitude>5.646219</longitude>
+      <latitude>45.18525</latitude>
+    </localisation>
+    <localisation>
+      <id>38439_0214_00010</id>
+      <longitude>6.054474</longitude>
+      <latitude>45.383745</latitude>
+    </localisation>
+    <localisation>
+      <id>38547_0190_00002</id>
+      <longitude>5.8906</longitude>
+      <latitude>45.24127</latitude>
+    </localisation>
+    <localisation>
+      <id>38399_0024_00160</id>
+      <longitude>5.122613</longitude>
+      <latitude>45.505674</latitude>
+    </localisation>
+    <localisation>
+      <id>38455_0175_02547</id>
+      <longitude>5.297228</longitude>
+      <latitude>45.642584</latitude>
+    </localisation>
+    <localisation>
+      <id>38515_hlllz6_00003</id>
+      <longitude>5.321889</longitude>
+      <latitude>45.687445</latitude>
+    </localisation>
+    <localisation>
+      <id>38426_ydgcc0_00005</id>
+      <longitude>6.033526</longitude>
+      <latitude>45.420944</latitude>
+    </localisation>
+    <localisation>
+      <id>38242_0002_00198_b</id>
+      <longitude>5.631714</longitude>
+      <latitude>44.912375</latitude>
+    </localisation>
+    <localisation>
+      <id>38087_0467_00203</id>
+      <longitude>4.819128</longitude>
+      <latitude>45.581519</latitude>
+    </localisation>
+    <localisation>
+      <id>38130_0685_00085</id>
+      <longitude>5.24259</longitude>
+      <latitude>45.392071</latitude>
+    </localisation>
+    <localisation>
+      <id>38547_0082_00007</id>
+      <longitude>5.904938</longitude>
+      <latitude>45.255819</latitude>
+    </localisation>
+    <localisation>
+      <id>38563_0460_00030</id>
+      <longitude>5.585498</longitude>
+      <latitude>45.37043</latitude>
+    </localisation>
+    <localisation>
+      <id>38182_0400_00635</id>
+      <longitude>5.415349</longitude>
+      <latitude>45.394914</latitude>
+    </localisation>
+    <localisation>
+      <id>38453_0460_00093</id>
+      <longitude>5.321259</longitude>
+      <latitude>45.110834</latitude>
+    </localisation>
+    <localisation>
+      <id>38386_0050_00021</id>
+      <longitude>5.628569</longitude>
+      <latitude>45.458056</latitude>
+    </localisation>
+    <localisation>
+      <id>38174_0072_00060</id>
+      <longitude>5.367924</longitude>
+      <latitude>45.386221</latitude>
+    </localisation>
+    <localisation>
+      <id>38012_0520_00163</id>
+      <longitude>5.610188</longitude>
+      <latitude>45.58759</latitude>
+    </localisation>
+    <localisation>
+      <id>38547_0590_00217</id>
+      <longitude>5.887604</longitude>
+      <latitude>45.240203</latitude>
+    </localisation>
+    <localisation>
+      <id>38140_0140_00373</id>
+      <longitude>5.878185</longitude>
+      <latitude>45.283604</latitude>
+    </localisation>
+    <localisation>
+      <id>38344_0180_00024</id>
+      <longitude>4.804883</longitude>
+      <latitude>45.36382</latitude>
+    </localisation>
+    <localisation>
+      <id>38111_1000_00047</id>
+      <longitude>5.665825</longitude>
+      <latitude>45.110761</latitude>
+    </localisation>
+    <localisation>
+      <id>38133_0180_00100</id>
+      <longitude>5.615222</longitude>
+      <latitude>45.358353</latitude>
+    </localisation>
+  </geolocalisations>
+</depistages>
